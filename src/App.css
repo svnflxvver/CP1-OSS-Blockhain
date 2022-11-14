@@ -1,0 +1,21 @@
+:root {
+  --blue: #3088c8;
+
+  --orange: #f69421;
+  --orange-1: #f2994a;
+
+  --red: #e01a00;
+
+  --grey: #666666;
+  --grey-1: #c7c7cc;
+  --grey-2: #cacaca;
+  --grey-3: #f3f4f9;
+
+  --black: #404040;
+
+  /* theme default*/
+  --text-default: var(--black);
+
+  /* input */
+  --input-placeholder: var(--grey-2);
+}
